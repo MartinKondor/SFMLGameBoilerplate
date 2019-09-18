@@ -1,0 +1,8 @@
+libraries
+obj
+*.db
+desktop.ini
+bin/Release
+temp/
+*.layout
+*.exe
