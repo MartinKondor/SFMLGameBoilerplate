@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="view.png" width="450">
+</p>
+
 # SFMLGameBoilerplate
 
 [![version](https://img.shields.io/badge/version-v0.1.0-red.svg)](https://github.com/MartinKondor/SFMLGameBoilerplate) [![Project Status](https://img.shields.io/badge/status-active-brightgreen.svg)](https://github.com/MartinKondor/SFMLGameBoilerplate) ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg) [![GitHub Issues](https://img.shields.io/github/issues/MartinKondor/SFMLGameBoilerplate.svg)](https://github.com/MartinKondor/SFMLGameBoilerplate/issues) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
