@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="view.png" width="450">
+    <img src="view.png" width="500">
 </p>
 
 # SFMLGameBoilerplate
@@ -50,11 +50,9 @@ Ways to contribute:
 
 * **[Martin Kondor](https://github.com/MartinKondor)**
 
-<p align="center"><a href="https://www.patreon.com/bePatron?u=17006186" data-patreon-widget-type="become-patron-button"><img width="222" class="img-responsive" alt="Become a Patron!" title="Become a Patron!" src="https://martinkondor.github.io/img/become_a_patron_button.png"></a></p>
-
 ## License
 
-Copyright &copy; Martin Kondor 2019
+Copyright &copy; Martin Kondor 2022
 
 This repository is licensed under the ```MIT``` license.
 See the [LICENSE](./LICENSE) file for more details.
